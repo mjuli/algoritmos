@@ -1,0 +1,1 @@
+Caracteristicas da linguagem C: estruturada, imperativa e procedural(segue um processo - um conjunto de passos computacionais a serem executados.)

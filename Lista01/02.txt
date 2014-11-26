@@ -1,0 +1,10 @@
+1. Assembly
+2. Python
+3. Ruby
+4. C#
+5. C
+6. C++
+7. Java
+8. Pascal
+9. Objective-C
+10. PHP
