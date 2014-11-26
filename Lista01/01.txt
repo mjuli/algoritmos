@@ -1,1 +1,2 @@
-A linguagem de programaçao eh o meio de comunicação entre os computadores e os humanos, ou seja, é um método padronizado para comunicar instruções para um computador.
+A linguagem de programaçao eh o meio de comunicação entre os computadores e os humanos, ou seja, 
+é um método padronizado para comunicar instruções para um computador.
